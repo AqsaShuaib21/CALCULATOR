@@ -1,0 +1,15 @@
+.calculator{
+  margin-left: 45%;
+  margin-top: 5%;
+  border: 3px solid rgb(206, 22, 179);
+ width:200px;
+ height:400px;
+  border-radius: 5px;
+}
+.colorButton{
+  margin-top: 40px;
+  font-size: 20px;
+  border-radius: 3px;
+  background-color: purple;
+  color: antiquewhite;
+}
